@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>TaukVue</h1>
+  <h1>Tauk Vuejs</h1>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     x="0px"
@@ -52,6 +52,11 @@
       C420.9,138.1,418,134,415.4,130.2z"
     />
   </svg>
+  <h2>do Pixel </h2>
+  <h3> ao Código</h3>
+  <p>
+Com mais de 20 anos de trajetória no mercado digital, vasta experiência em desenvolvimento Web Front-end e Back-end. Minha atuação foca na criação aplicações otimizadas para conversão.
+  </p>
   <p>
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
